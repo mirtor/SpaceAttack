@@ -1,5 +1,6 @@
 /*
 Developer: Víctor Díaz Iglesias
+Framework: Processing 4.2
 
 The goal is to overcome as many waves of enemies as possible, achieving the highest score.
 There are 3 types of enemy waves, and with the destruction of each wave, the enemies' health increases, adding difficulty.
