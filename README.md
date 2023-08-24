@@ -3,11 +3,7 @@ Welcome to Space Attack, a reimagined version of the classic game Space Invaders
 
 ![SpaceAttack screenshot](SpaceAttack.jpg)
 
-<p align="center">
-  <a href="[https://youtu.be/zjG6bR8pOb0](https://youtu.be/zjG6bR8pOb0](https://www.youtube.com/watch?v=zjG6bR8pOb0)">
-    <img src="[https://www.youtube.com/s/desktop/55882dc1/img/favicon_144x144.png](https://www.youtube.com/s/desktop/55882dc1/img/favicon_96x96.png)" alt="Watch the video">
-  </a>
-</p>
+[![Watch the video](https://www.youtube.com/s/desktop/55882dc1/img/favicon_96x96.png)](https://youtu.be/zjG6bR8pOb0)
 
 
 
