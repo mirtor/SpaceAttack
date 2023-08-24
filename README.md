@@ -2,7 +2,7 @@
 Welcome to Space Attack, a reimagined version of the classic game Space Invaders. Crafted using the Processing 4.2 framework, this project presents a modern and exciting take on the beloved classic. Prepare to confront waves of alien enemies, striving to achieve the highest score and survive increasingly challenging waves. This endeavor is part of the Culminating Project for Creative Programming in the Multimedia degree program, showcasing the fusion of classic gameplay and cutting-edge development.
 
 ![SpaceAttack screenshot](SpaceAttack.jpg)
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/zjG6bR8pOb0)
+[![Watch the video]](https://youtu.be/zjG6bR8pOb0)
 
 
 ## Key Features
