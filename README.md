@@ -5,7 +5,7 @@ Welcome to Space Attack, a reimagined version of the classic game Space Invaders
 [![Watch the video](https://www.youtube.com/s/desktop/55882dc1/img/favicon_144x144.png)](https://youtu.be/zjG6bR8pOb0)
 
 <p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/zjG6bR8pOb0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7cvnI1RZilE?si=jNzlzn27IBETXI8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 
